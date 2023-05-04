@@ -1,5 +1,7 @@
+import Layout from '../../Layout/Layout.jsx'
+
 const Profile = () => {
-	return <div>Profile</div>
+	return <Layout>Profile</Layout>
 }
 
 export default Profile
